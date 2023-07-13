@@ -1,8 +1,8 @@
-*Currently ongoing Project**
+**Currently ongoing Project**
 
 Creating a large database based on an action-role-playing game: Final Fantasy VII - Squaresoft
 
--  Here's a sample template of the database documentation for the ARPG project:
+Here's a sample template of the database documentation for the ARPG project:
 
 Database Design
 
