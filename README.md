@@ -1,4 +1,4 @@
-**Currently on-going project**
+**Currently on-going Project**
 
 Creating a large database based on an action-role-playing game: Final Fantasy VII - Squaresoft
 
@@ -17,11 +17,7 @@ Data Dictionary
 
 Table: Characters
 
--     "Name" VARCHAR(255),
--     Age VARCHAR(255),
--     Height VARCHAR(255),
--     Birthplace VARCHAR(255),
--     DOB VARCHAR(255),
+-     "Name" VARCHAR(255), Age VARCHAR(255), Height VARCHAR(255), Birthplace VARCHAR(255), DOB VARCHAR(255),
 -     High_Attributes VARCHAR(255),
 -     Low_Attributes VARCHAR(255),
 -     Job_Class VARCHAR(255),
