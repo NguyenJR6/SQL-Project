@@ -2,6 +2,8 @@
 
 Creating a large database based on an action-role-playing game: Final Fantasy VII - Squaresoft
 
+Pulling data by specific tables from the database and converting them into .csv files
+
 Here's a sample template of the database documentation for the ARPG project:
 
 Database Design
