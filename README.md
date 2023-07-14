@@ -4,7 +4,7 @@ Creating a large database based on an action-role-playing game: Final Fantasy VI
 
 Pulling data by specific tables from the database and converting them into .csv files to create a visualization off of Microsoft Power BI
 
-
+Testing and executing queries such as joining tables, selecting specific columns from tables, etc.
 
 Here's a sample template of the database documentation for the ARPG project:
 
