@@ -1,0 +1,128 @@
+Character,Name,Attack,Attack_%,Magic,Ability_Points,Materia_Slots,Materia_Growth,Special,Price,Location
+Cloud Strife,Buster Sword,18,96,2,x2,[2-Linked] x1,Normal,Magic +2,120,Initial Equipment
+Cloud Strife,Mythril Saber,23,98,4,x3,"[2-Linked, 1] x1",Normal,Magic +4,1000,"Buy: Kalm(Shop), Lower Junon(Shop)"
+Cloud Strife,Hardedge,32,98,6,x4,"[2-Linked, 1, 1] x1",Normal,None,1500,"Find: Shinra HQ - Solder 3rd(Steal), Buy: Upper Junon(Shop), Gongaga Village(Shop)"
+Cloud Strife,Force Stealer,36,100,7,x6,"[1, 1, 1] x2",Double,None,2200,"Find: Heidegger in Junon Dock(Prize), Buy: North Corel(Shop)"
+Cloud Strife,Butterfly Edge,39,100,8,x4,"[2-Linked, 2-Linked] x1",Normal,None,2800,Buy: Cosmo Canyon(Shop)
+Cloud Strife,Rune Blade,40,108,9,x8,"[1, 1, 1, 1] x2",Double,None,3800,"Find: Mt.Nibel(Treasure), Buy: Upper Junon(Shop)"
+Cloud Strife,Enhance Sword,43,107,16,x8,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x1",Normal,None,12000,"Buy: Upper Junon(Shop), Find: Gaea Cliff(Treasure)"
+Cloud Strife,Murasame,51,100,12,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,6500,Buy: Wutai(Shop)
+Cloud Strife,Yoshiyuki,56,100,9,x2,"[1, 1] x1",Normal,Double power when an ally is down; Triple when two allies are down,4200,Find: Rocket Town
+Cloud Strife,Organics,62,103,15,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,None,12000,Buy: Icicle Inn(Shop)
+Cloud Strife,Nail Bat,70,100,0,x0,None,None,Critical %+,2800,"Find: Temple of the Ancients(Treasure), Buy: Lower Junon(Shop)"
+Cloud Strife,Crystal Sword,76,105,19,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,18000,Buy: Mideel(Shop)
+Cloud Strife,Apocalypse,88,110,43,x9,"[1, 1, 1] x3",Triple,Spirit +16,0,Find: Ancient Forest(Treasure)
+Cloud Strife,Heavens Cloud,93,100,31,x6,"[1, 1, 1, 1, 1, 1] x1",Normal,None,0,Find: Sunken Plane(Treasure)
+Cloud Strife,Ragnarok,97,105,43,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,Spirit +35,0,Find: Midgar Sector 8 - Proud Clod(Drop)
+Cloud Strife,Ultima Weapon,100,105,51,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,"Magic +51, Spirit +24, Damage is calculated when Cloud has high Health Point(HP)",0,Find: Cosmo Area - Ultima Weapon(Drop)
+Barret Wallace,Gatling Gun,14,97,0,x1,[1] x1,Normal,Ranged,120,Initial Equipment
+Barret Wallace,Assault Gun,17,98,1,x2,[2-Linked] x1,Normal,Ranged,350,"Buy: Sector 7 Slums(Shop), Wall Market(Shop), Find: Number 1 Reactor - Guard Scorpion(Drop)"
+Barret Wallace,Cannon Ball,23,98,2,x3,"[2-Linked, 1] x1",Normal,None,950,"Buy: Kalm(Shop), Lower Junon(Shop)"
+Barret Wallace,W-Machine Gun,30,100,3,x6,"[1, 1, 1] x2",Double,Ranged,0,"Buy: Upper Junon(Shop), Find: Mt. Corel(Treasure), Junon - Death Machine(Drop)"
+Barret Wallace,Atomic Scissors,32,99,4,x4,"[2-Linked, 1, 1] x1",Normal,None,1400,"Buy: Lower Junon(Shop), Gongaga Village(Shop), Find: Midgar Area - Custom Sweeper(Steal)"
+Barret Wallace,Enemy Launcher,35,100,7,x5,"[2-Linked, 1, 1, 1] x1",Normal,Ranged,3300,"Buy: Lower Junon(Shop), Find: Shinra Mansion(Treasure)"
+Barret Wallace,Drill Arm,37,97,0,x8,"[1, 1, 1, 1] x2",Double,None,3300,"Buy: Upper Junon(Shop), Find: Rocket Town(Treasure)"
+Barret Wallace,Heavy Vulcan,39,97,8,x4,"[2-Linked, 2-Linked] x1",Normal,Ranged,3700,Buy: Cosmo Canyon(Shop)
+Barret Wallace,Chainsaw,52,100,10,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,6300,Buy: Wutai(Shop)
+Barret Wallace,Solid Bazooka,61,100,15,x8,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,16000,Buy: Costa del Sol(Shop)
+Barret Wallace,Rocket Punch,62,110,0,x0,None,None,None,3200,"Buy: Lower Junon(Shop), Find: Temple of the Ancients(Treasure)"
+Barret Wallace,Microlaser,63,101,13,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,Ranged,12000,Buy: Icicle Inn(Shop)
+Barret Wallace,A-M Cannon,77,103,16,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,18000,Buy: Mideel(Shop)
+Barret Wallace,Pile Banger,80,90,0,x0,"[2-Linked, 2-Linked, 2-Linked] x0",None,None,0,Find: Shinra HQ 2F(Treasure)
+Barret Wallace,Max Ray,97,98,30,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,0,Find: Sector 8 - Underground(Treasure)
+Barret Wallace,Missing Score,98,108,49,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,"Ranged, Damage is calculated based on Ability Point(AP) on Materia",0,Find: Mako Cannon(Treasure)
+Tifa Lockheart,Leather Glove,13,99,0,x1,[1] x1,Normal,None,120,Initial Equipment
+Tifa Lockheart,Metal Knuckle,18,102,1,x2,[2-Linked] x1,Normal,None,320,Buy: Wall Market(Shop)
+Tifa Lockheart,Mythril Claw,24,106,3,x3,"[2-Linked, 1] x1",Normal,None,750,"Buy: Kalm(Shop), Lower Junon(Shop)"
+Tifa Lockheart,Motor Drive,27,106,6,x6,"[1, 1, 1] x2",Double,None,1800,Find: Costa del Sol(Treasure)
+Tifa Lockheart,Powersoul,28,106,7,x8,"[1, 1, 1, 1] x2",Double,"Low-Health Point(HP): Attack x2, Death Sentence: Attack x4",4200,"Find:Mt. Nibel(Treasure), Buy: Lower Junon(Shop)"
+Tifa Lockheart,Platinum Fist,30,108,7,x8,"[1, 1, 1, 1] x2",Double,None,700,"Find: Nibelheim, Buy: Upper Junon(Shop)"
+Tifa Lockheart,Grand Glove,31,110,6,x4,"[2-Linked, 1, 1] x1",Normal,None,1200,"Buy: Upper Junon(Shop), Lower Junon(Shop), Gongaga Village(Shop), Find: Mythril Mine - Madouge(Steal)"
+Tifa Lockheart,Tiger Fang,38,110,8,x4,"[2-Linked, 2-Linked] x1",Normal,None,500,Buy: Cosmo Canyon(Shop)
+Tifa Lockheart,Master Fist,38,108,0,x6,"[1, 1, 1, 1, 1, 1] x1",Normal,Status Effect: Damage x2,0,Find: Shinra HQ 2F(Treasure)
+Tifa Lockheart,Kaiser Knuckle,44,110,13,x8,"[2-Linked, 1, 1, 1, 1, 1, 1] x1",Normal,None,15000,"Buy: Upper Junon(Shop), Find: Whirlwind Maze(Treasure)"
+Tifa Lockheart,Diamond Knuckle,51,112,10,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,5800,Buy: Wutai(Shop)
+Tifa Lockheart,Dragon Claw,62,114,13,x6,"[2-Linked, 2-Linked, 1], [1] x1",Normal,None,10000,Buy: Icicle Inn(Shop)
+Tifa Lockheart,Work Glove,68,114,0,x0,None,None,None,2200,"Buy: Lower Junon(Shop), Find: Temple of the Ancients(Treasure)"
+Tifa Lockheart,Crystal Glove,75,115,16,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,16000,Buy: Mideel(Shop)
+Tifa Lockheart,Gods Hand,86,255,34,x4,"[2-Linked, 2-Linked] x1",Normal,None,0,Find: Submarine Bay - Carry Armor(Drop)
+Tifa Lockheart,Premium Heart,99,112,32,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,Damage calculated based on Tifa Limit Break gauge is filled,0,Find: Wall Market
+Aeris Gainsborough,Guard Stick,12,99,2,x1,[1] x1,Normal,"Vitality +4, Spirit +4",140,Initial Equipment
+Aeris Gainsborough,Mythril Rod,16,100,3,x2,[2-Linked] x1,Normal,None,370,Buy: Wall Market(Shop)
+Aeris Gainsborough,Full Metal Staff,22,100,4,x3,"[2-Linked, 1] x1",Normal,None,800,"Buy: Kalm(Shop), Lower Junon(Shop)"
+Aeris Gainsborough,Wizard Staff,28,100,6,x6,"[1, 1, 1] x2",Double,None,1800,"Buy: Upper Junon(Shop), Find: Mt. Corel(Treasure)"
+Aeris Gainsborough,Striking Staff,32,100,7,x4,"[2-Linked, 1, 1] x1",Normal,None,1300,"Buy: Upper Junon(Shop), Gongaga Village(Shop), Find: Train Graveyard - Eligor(Steal), Gold Saucer - Harpy(Steal)"
+Aeris Gainsborough,Wizer Staff,33,100,7,x8,"[1, 1, 1, 1] x2",Double,None,3200,"Buy: Upper Junon(Shop), Find: Gi Cave - Gi Nattak(Drop)"
+Aeris Gainsborough,Fairy Tale,37,103,8,x7,"[1, 1, 1, 1, 1, 1, 1] x1",Normal,None,500,"Buy: Upper Junon(Shop), Find: Gongaga - Reno(Drop)"
+Aeris Gainsborough,Prism Staff,40,105,10,x4,"[2-Linked, 2-Linked] x1",Normal,None,600,Buy: Cosmo Canyon(Shop)
+Aeris Gainsborough,Aurora Rod,51,110,14,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,5800,Buy: Wutai(Shop)
+Aeris Gainsborough,Princess Guard,52,111,22,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,"Vitality +12, Spirit +20, Power x2: When ally is down, Power x3: when 2 ally are down",7500,Find: Temple of the Ancients(Treasure)
+Aeris Gainsborough,Umbrella,58,118,10,x0,None,None,"Vitality +20, Critical %+",3800,Find: Gold Saucer
+Red XIII,Mythril Clip,24,100,6,x3,"[2-Linked, 1] x1",Normal,None,800,"Initial Equipment, Buy: Lower Junon(Shop)"
+Red XIII,Diamond Pin,33,102,8,x4,"[2-Linked, 1, 1] x1",Normal,None,1300,"Buy: Upper Junon(Shop), Gongaga Village(Shop), Find: Mt.Corel - Bagnadrana(Steal)"
+Red XIII,Magic Comb,37,100,4,x6,"[1, 1, 1] x2",Double,None,2000,"Buy: Upper Junon(Shop), Find: Fort Condor"
+Red XIII,Plus Barrette,39,104,12,x8,"[1, 1, 1, 1] x2",Double,None,3500,"Buy: Upper Junon(Shop), Find: Mt. Nibel(Treasure)"
+Red XIII,Silver Barrette,40,110,10,x4,"[2-Linked, 2-Linked] x1",Normal,None,500,Buy: Cosmo Canyon(Shop)
+Red XIII,Gold Barrette,50,104,13,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,6000,Buy: Wutai(Shop)
+Red XIII,Hairpin,57,120,15,x0,None,None,"Ranged, Critical %+",6000,"Buy: Upper Junon(Shop), Find: Wutai(Treasure)"
+Red XIII,Centclip,58,108,22,x8,"[1, 1, 1, 1, 1, 1, 1, 1] x1",Normal,None,14000,Buy: Costa del Sol(Shop)
+Red XIII,Adaman Clip,60,106,15,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,None,11000,Buy: Icicle Inn(Shop)
+Red XIII,Seraph Comb,68,110,14,x4,"[1, 1, 1, 1] x1",Normal,None,8000,Find: Cave of Gi
+Red XIII,Crystal Comb,76,108,20,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,17000,Buy: Mideel(Shop)
+Red XIII,Spring Gun Clip,87,100,55,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,0,Find: Ancient Forest(Treasure)
+Red XIII,Behemoth Horn,91,75,26,x6,"[1, 1, 1, 1, 1, 1] x1",Normal,"Vitality +35, Spirit +18",0,Find: Shinra HQ 2F(Treasure)
+Red XIII,Limited Moon,93,114,31,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,Damage is calculated based on Red XIII Mana Point(MP) gauge is filled,0,Find: Cosmos Canyon - Bugenhagen
+Cait Sith,Silver Megaphone,28,106,14,x8,"[1, 1, 1, 1, 1, 1, 1, 1] x1",Normal,None,3300,"Buy: Lower Junon(Shop), Find: Shinra Mansion(Treasure)"
+Cait Sith,Black Megaphone,31,104,10,x8,"[1, 1, 1, 1] x2",Double,None,2800,"Buy: Lower Junon(Shop), Find: Cave of the Gi(Treasure)"
+Cait Sith,White Megaphone,35,102,8,x6,"[1, 1, 1] x2",Double,None,2300,"Buy: Lower Junon(Shop), Find: Gongaga Village(Treasure)"
+Cait Sith,Yellow Megaphone,36,100,8,x3,"[2-Linked, 1] x1",Normal,None,500,"Initial Equipment, Buy: Lower Junon(Shop)"
+Cait Sith,Green Megaphone,41,100,9,x4,"[2-Linked, 2-Linked] x1",Normal,None,2400,Buy: Cosmo Canyon(Shop)
+Cait Sith,Blue Megaphone,48,100,10,x5,"[2-Linked, 2-Linked, 1] x1",Normal,None,5500,Buy: Wutai(Shop)
+Cait Sith,Gold Megaphone,58,103,28,x8,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x1",Normal,None,15000,Buy: Costa del Sol(Shop)
+Cait Sith,Red Megaphone,60,100,15,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,None,11000,Buy: Icicle Inn(Shop)
+Cait Sith,Trumpet Shell,68,118,2,x0,None,None,Critical %+,3000,"Buy: Lower Junon(Shop), Find: Temple of the Ancients(Treasure)"
+Cait Sith,Crystal Megaphone,74,100,20,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,18000,Buy: Mideel(Shop)
+Cait Sith,Starlight Megaphone,88,102,31,x8,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x1",Normal,Vitality +30,0,Find: Sector 8 Underground(Treasure)
+Cait Sith,Battle Trumpet,95,95,0,x0,"[2-Linked, 2-Linked, 2-Linked] x0",None,None,0,FInd: Underwater Reactor(Treasure)
+Cait Sith,HP Shout,95,110,44,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,Damage is calculated based on Cait Sith Health Point(HP) gauge is filled,0,Find: Shinra HQ 64F(Treasure)
+Cid Highwind,Spear,44,97,8,x4,"[2-Linked, 1, 1] x1",Normal,None,1200,"Initial Equipment, Buy: Lower Junon(Shop)"
+Cid Highwind,Slash Lance,56,98,10,x5,"[2-Linked, 2-Linked, 1, 1] x1",Normal,None,6500,Buy: Wutai(Shop)
+Cid Highwind,Viper Halberd,58,102,13,x8,"[1, 1, 1, 1] x2",Double,None,7000,"Buy: Upper Junon(Shop), Find: Forgotten City(Treasure)"
+Cid Highwind,Trident,60,105,12,x6,"[1, 1, 1, 1, 1, 1] x1",Normal,None,7500,"Buy: Lower Junon(Shop), Find: Temple of the Ancients(Treasure)"
+Cid Highwind,Javelin,62,104,12,x10,"[2-Linked, 2-Linked, 1] x2",Double,None,7500,Find: Gaea Cliff(Treasure)
+Cid Highwind,Mast Ax,64,99,15,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,None,13000,Buy: Icicle Inn(Shop)
+Cid Highwind,Dragoon Lance,66,100,7,x8,"[1, 1, 1, 1, 1, 1, 1, 1] x1",Normal,None,6200,"Buy: Upper Junon(Shop), Find: Mt. Wutai(Treasure)"
+Cid Highwind,Mop,68,118,3,x0,None,None,Critical %+,3200,"Buy: Lower Junon(Shop), Find: Bone Village(Treasure)"
+Cid Highwind,Partisan,78,100,17,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,19000,Buy: Mideel(Shop)
+Cid Highwind,Grow Lance,78,102,31,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,None,16000,Find: Shinra HQ 63F(Treasure)
+Cid Highwind,Scimitar,86,102,20,x6,[2-Linked] x3,Triple,None,0,Find: Underwater Reactor(Treasure)
+Cid Highwind,Spirit Lance,92,112,43,x4,"[2-Linked, 2-Linked] x1",Normal,Spirit +20,0,Find: Sunken Gelnika(Treasure)
+Cid Highwind,Venus Gospel,97,103,42,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,Damage is calculated based on Cid Highwind Mana Point(MP) gauge is filled,0,Find: Rocket Town(Prize)
+Cid Highwind,Flayer,100,100,20,x6,"[1, 1, 1, 1, 1, 1] x1",Normal,None,15000,Find: Gold Saucer
+Yuffie Kisaragi,4-Point Shuriken,23,100,6,x3,"[2-Linked, 1] x1",Normal,Ranged,600,Initial Equipment
+Yuffie Kisaragi,Boomerang,30,101,7,x4,"[2-Linked, 1, 1] x1",Normal,Ranged,1400,"Buy: Upper Junon(Shop), Lower Junon(Shop), Gongaga Village(Shop), Find: Junon - Formula(Steal)"
+Yuffie Kisaragi,Wind Slash,30,103,7,x6,"[1, 1, 1] x2",Double,Ranged,2000,"Buy: Upper Junon(Shop), Find: Cargo Ship(Treasure)"
+Yuffie Kisaragi,Twin Viper,36,108,8,x8,"[1, 1, 1, 1] x2",Double,Ranged,3200,"Buy: Upper Junon(Shop), Find: Shinra Mansion(Treasure)"
+Yuffie Kisaragi,Pinwheel,37,104,9,x4,"[2-Linked, 2-Linked] x1",Normal,Ranged,600,Buy: Cosmo Canyon(Shop)
+Yuffie Kisaragi,Razor Wing,49,105,12,x5,"[2-Linked, 2-Linked, 1] x1",Normal,Ranged,6000,Buy: Wutai(Shop)
+Yuffie Kisaragi,Hawkeye,61,107,14,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,Ranged,12000,Buy: Icicle Inn(Shop)
+Yuffie Kisaragi,Superball,68,120,10,x0,None,None,Ranged,3000,"Buy: Lower Junon(Shop), Find: Fort Condor(Prize)"
+Yuffie Kisaragi,Magic Shuriken,68,110,0,x3,"[1, 1, 1] x1",Normal,"Dexterity +10, Ranged",6000,Find: Wutai(Treasure)
+Yuffie Kisaragi,Rising Sun,68,108,16,x8,"[2-Linked, 2-Linked] x2",Double,Ranged,0,Find: Diamond Weapon(Steal)
+Yuffie Kisaragi,Spiral Shuriken,68,110,18,x8,"[2-Linked, 1, 1, 1, 1, 1, 1] x1",Normal,Ranged,14000,Buy: Costa del Sol(Shop)
+Yuffie Kisaragi,Crystal Cross,74,110,18,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,18000,Buy: Mideel(Shop)
+Yuffie Kisaragi,Oritsuru,90,116,38,x8,"[2-Linked, 2-Linked, 1, 1, 1, 1] x1",Normal,Ranged,0,Find: Wutai(Treasure)
+Yuffie Kisaragi,Conformer,96,112,42,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,"Ranged, Max damage using Morph Materia & more damage when enemy level is higher",0,Find: Suken Gelnika(Treasure)
+Vincent Valentine,Quicksilver,38,110,10,x4,"[2-Linked, 1, 1] x1",Normal,Ranged,1000,"Initial Equipment, Buy: Lower Junon(Shop)"
+Vincent Valentine,Peacemaker,38,118,8,x6,"[2-Linked, 1] x2",Double,Ranged,3500,"Buy: Lower Junon(Shop), Find: Town of Kalm(Treasure)"
+Vincent Valentine,Sniper CR,42,255,7,x4,"[2-Linked, 2-Linked] x1",Normal,Ranged,3300,"Buy: Lower Junon(Shop), Find: Mt. Nibel(Treasure)"
+Vincent Valentine,Shotgun,48,112,12,x4,"[2-Linked, 2-Linked] x1",Normal,Ranged,3100,Buy: Rocket Town(Shop)
+Vincent Valentine,Buntline,48,124,18,x8,"[2-Linked, 2-Linked] x2",Double,Ranged,6800,"Buy: Upper Junon(Shop), Find: Bone Village(Treasure)"
+Vincent Valentine,Shortbarrel,51,118,14,x5,"[2-Linked, 2-Linked, 1] x1",Normal,Ranged,6400,Buy: Wutai(Shop)
+Vincent Valentine,Silver Rifle,62,120,0,x0,None,None,"Ranged, Critical %+",3000,"Buy: Upper Junon(Shop), Find: Temple of the Ancients(Treasure)"
+Vincent Valentine,Lariat,64,120,16,x6,"[2-Linked, 2-Linked, 1, 1] x1",Normal,Ranged,12000,Buy: Icicle Inn(Shop)
+Vincent Valentine,Long Barrel R,66,255,14,x8,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,13000,Buy: Costa del Sol(Shop)
+Vincent Valentine,Winchester,73,120,18,x6,"[2-Linked, 2-Linked, 2-Linked] x1",Normal,Ranged,18000,Buy: Mideel(Shop)
+Vincent Valentine,Outsider,80,120,52,x8,"[2-Linked, 2-Linked, 1, 1, 1, 1] x1",Normal,Ranged,0,Find: Sunken Gelnika(Treasure)
+Vincent Valentine,Supershot ST,97,120,52,x0,"[2-Linked, 2-Linked, 2-Linked] x0",None,Ranged,0,Find: Ancient Forest(Treasure)
+Vincent Valentine,Death Penalty,99,115,34,x0,"[2-Linked, 2-Linked, 2-Linked, 2-Linked] x0",None,"Ranged, Deals more damage when Vincent Valentine kills more enemies",0,Find: Lucrecia Cave(Treasure)
